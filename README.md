@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Food Info System is a comprehensive web application designed to assist users in exploring food options, estimating calorie intake, and learning to cook through various interactive features. This system offers a food chatbot for recipe recommendations, calorie estimation based on food entries, and cooking videos for visual guidance. It includes secure login and signup functionality to provide personalized experiences.
+Features
+Food Chatbot: Provides recipe recommendations, answers food-related questions, and helps users navigate food choices.
+Calorie Estimation: Calculates estimated calories based on user-entered food items.
+Cooking Videos: Offers video tutorials on cooking various dishes.
+User Authentication: Includes secure login and signup for personalized tracking and content.
