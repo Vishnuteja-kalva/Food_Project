@@ -89,7 +89,7 @@ export const Video = () => {
 
         {searchResults.length > 0 && (
           <div style={{ marginTop: "20px" }}>
-            <h2>Search Results:</h2>
+            <h2>Similar Content below : 👇</h2>
             <ul style={{ listStyleType: "none", padding: 0 }}>
               {searchResults.map((item) => (
                 <li key={item.id.videoId} id="searchs" style={{ margin: "10px 0" }}>
